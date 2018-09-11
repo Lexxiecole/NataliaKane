@@ -4,11 +4,12 @@
 }
 
 .aye {
-    color: black;
+    color: #143451;
 }
 
 .jumbotron {
     text-align: center;
+    background-color: #e5e5e9;
 }
 
 .nkPhotography {
@@ -18,6 +19,7 @@
 
 .pageName {
     font-family: 'Noto Serif KR', sans-serif;
+    color: #143451;
 }
 
 
@@ -29,9 +31,9 @@
 
 
 /* colors
-#e5e5e9
-#274e55
-#143451
+#e5e5e9  --  background
+#274e55  --  headings
+#143451  --  subtext
 #0f1320
 
 */
