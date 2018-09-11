@@ -13,6 +13,7 @@
 
 .nkPhotography {
     font-family: 'Abril Fatface', cursive;
+    color: #275e55;
 }
 
 .pageName {
@@ -27,12 +28,15 @@
 
 
 
+/* colors
+#e5e5e9
+#274e55
+#143451
+#0f1320
 
+*/
 
-
-
-
-
+/* fonts */
 
 #a {
     font-family: 'Sacramento', cursive;
