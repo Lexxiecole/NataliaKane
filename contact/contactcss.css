@@ -35,17 +35,27 @@
 
 #k {
     font-family: 'Nanum Myeongjo', serif;
+    align-content: inline;
 }
 
 #imageDiv {
+    float: left;
 
 }
 
 #img {
+    height: 50%;
+    width: 50%;
 
 }
 
+#form {
+    float: right;
+    clear: all;
+}
+
 .emailForm {
+   
 
 }
 
@@ -62,5 +72,5 @@
 }
 
 .submit {
-    
+
 }
